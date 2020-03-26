@@ -1,8 +1,8 @@
 ## Accessor
 
-There isn't a description for this problem. Read and interpret the test specs.
+There isn't a description for this problem. Read and interpret the Test Specs.
 
-Tip: When a function returns another function, what is potentially created?
+Hint: When a function returns another function, what is potentially created ...maybe a closure?
 
 ## Topics
 
