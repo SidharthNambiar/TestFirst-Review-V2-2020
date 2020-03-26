@@ -17,7 +17,7 @@ Sometimes the suggested directions have a lot of extra traveling, e.g.
 
 The directions make you travel North, then immediately back South, leaving you right where you left off! Also, then you move East, then back West!
 
-Your task is to create the function `mapQuest` that identifies redundancies and unreasonable directions and create a better route. For example, if these were the directions submitted by a user:
+** Your task is to create the function `mapQuest` that removes adjacent redundant directions and create a better route**. For example, if these were the directions submitted by a user:
 
 `['N', 'S', 'W', 'E', 'S']`
 
