@@ -42,9 +42,6 @@ $ npm test
 
 The `npm test` command will run the local installation of `testem`! If you installed `testem` locally with this approach, instead of running `testem` run `npm test` whenever you want to launch `testem`. In addition, whenever clone a new TestFirst repository to your local machine (such as TestFirst-Part-2 or Checkpoints), you need to run `npm install` first, afterwards you can run `npm test`.
 
-Here is a [video demonstrating](https://youtu.be/KdMu351vFKw) the `npm test` command.
-
-
 
 <hr>
 <br>
