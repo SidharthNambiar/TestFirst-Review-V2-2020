@@ -27,3 +27,4 @@ vowelsCount('Nimit Maru');
 - `Array.prototype.reduce`
 - String methods (such as `String.prototype.includes` or `String.prototype.indexOf`)
 - Fundamental JavaScript Concepts
+
