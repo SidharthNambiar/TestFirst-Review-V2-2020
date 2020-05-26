@@ -10,4 +10,24 @@
 
 /* eslint-disable no-unused-vars */
 
-function difference(arrayA, arrayB) {}
+function difference(arrayA, arrayB) {
+
+    let result = arrayA.filter((val) => {
+        return arrayB.includes(val) === false;
+    })
+
+    return result;
+
+}
+
+
+function symmetricDiff(arr1, arr2) {
+
+        let uniqueInarr1 = difference(arr1, arr2);
+        let uniqueInarr2 = difference(arr2, arr1);
+
+        return uniqueInarr1.concat(uniqueInarr2);
+
+}
+
+

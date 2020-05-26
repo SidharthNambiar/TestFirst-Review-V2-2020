@@ -55,3 +55,5 @@ describe('mapQuest', () => {
     expect(Array.prototype.reduce).toHaveBeenCalled();
   });
 });
+
+
